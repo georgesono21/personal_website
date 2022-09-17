@@ -30,6 +30,7 @@ dependencies:
   flutter:
     sdk: flutter
   url_launcher: ^6.0.12
+  invert_colors: ^0.0.4
 
 
 
